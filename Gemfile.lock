@@ -4,7 +4,7 @@ PATH
     ckb-sdk-ruby (0.103.0)
       net-http-persistent (~> 4.0.1)
       rbnacl (~> 7.1.1)
-      rbsecp256k1 (~> 5.1.1)
+      rbsecp256k1 (~> 6.0.0)
 
 GEM
   remote: https://rubygems.org/
@@ -30,7 +30,7 @@ GEM
     rake (13.0.6)
     rbnacl (7.1.1)
       ffi
-    rbsecp256k1 (5.1.1)
+    rbsecp256k1 (6.0.0)
       mini_portile2 (~> 2.8)
       pkg-config (~> 1.5)
       rubyzip (~> 2.3)
